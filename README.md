@@ -3,7 +3,7 @@ This project contains experiments using the Java Microbenchmarking Harness ([JMH
 
 ## Getting started
 ### Prerequisites
-The project requires at least JDK 11 and Maven 3.6.
+The project requires at least JDK 11 and Maven 3.6 properly installed.
 
 ### Installation
 Installation with Maven:  
